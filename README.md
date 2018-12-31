@@ -1,7 +1,7 @@
-# pygame-pixels
+# Pygame Pixels
 Simulating things using only pixels
 
-##Fire
+## Fire
 
 Inspired by http://fabiensanglard.net/doom_fire_psx/, an implementation of generated, animated fire in Pygame.
 
